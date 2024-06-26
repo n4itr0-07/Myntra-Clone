@@ -116,3 +116,13 @@ margin: 40px 0;
     width: 100%;
 
 }
+
+.category-heading{
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .15em;
+    font-size: 1.8em;
+    margin: 50px 0 10px 30px;
+    max-height: 5cm;
+    font-weight: 700;
+}
